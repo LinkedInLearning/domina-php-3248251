@@ -1,7 +1,7 @@
 # Domina PHP
 Este es el repositorio del curso de LinkedIn Learning `Domina PHP`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://github.com/LinkedInLearning/domina-php-3248251/assets/71371373/77eebb71-673e-4fde-b59a-1739e3c226f7)
+![image](https://media.licdn.com/dms/image/D560DAQHkjUkrHwKT1w/learning-public-crop_675_1200/0/1687333082917?e=2147483647&v=beta&t=UH54ah6A-uzh7MYqJeMV_IFuhs166u3V5HFEXAEoTDs)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
